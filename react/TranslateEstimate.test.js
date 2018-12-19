@@ -5,7 +5,7 @@ import { IntlProvider } from 'react-intl'
 import messages from '../messages/pt.json'
 
 describe('TranslateEstimate', () => {
-  it('return empty string if does not pass shippingEstimate', () => {
+  it('should return empty string if does not pass shippingEstimate', () => {
     const wrapper = TestRenderer.create(
       <IntlProvider locale="pt" messages={messages}>
         <TranslateEstimate />
@@ -15,7 +15,7 @@ describe('TranslateEstimate', () => {
     expect(wrapper.toJSON()).toBe('')
   })
 
-  it('return empty string if passes only number', () => {
+  it('should return empty string if passes only number', () => {
     const wrapper = TestRenderer.create(
       <IntlProvider locale="pt" messages={messages}>
         <TranslateEstimate shippingEstimate="0" />
@@ -25,7 +25,7 @@ describe('TranslateEstimate', () => {
     expect(wrapper.toJSON()).toBe('')
   })
 
-  it('return empty string if passes only string', () => {
+  it('should return empty string if passes only string', () => {
     const wrapper = TestRenderer.create(
       <IntlProvider locale="pt" messages={messages}>
         <TranslateEstimate shippingEstimate="bd" />
@@ -35,7 +35,7 @@ describe('TranslateEstimate', () => {
     expect(wrapper.toJSON()).toBe('')
   })
 
-  it('return translated string if passes the right parameter', () => {
+  it('should return translated string if passes the right parameter', () => {
     const wrapper = TestRenderer.create(
       <IntlProvider locale="pt" messages={messages}>
         <TranslateEstimate shippingEstimate="0bd" />

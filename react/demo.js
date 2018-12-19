@@ -3,11 +3,11 @@ import PropTypes from 'prop-types'
 import { injectIntl, intlShape } from 'react-intl'
 import TranslateEstimate from './TranslateEstimate'
 
-class Calculate extends Component {
+class Demo extends Component {
   render() {
     return (
       <Fragment>
-        <p>Minutes</p>
+        <p>Minutos</p>
         <p>
           <TranslateEstimate shippingEstimate="0m" />
         </p>
@@ -19,7 +19,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Hours</p>
+        <p>Horas</p>
         <p>
           <TranslateEstimate shippingEstimate="0h" />
         </p>
@@ -31,7 +31,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Days</p>
+        <p>Dias</p>
         <p>
           <TranslateEstimate shippingEstimate="0d" />
         </p>
@@ -43,7 +43,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Business Days</p>
+        <p>Dias Úteis</p>
         <p>
           <TranslateEstimate shippingEstimate="0bd" />
         </p>
@@ -56,7 +56,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Pickup Minutes</p>
+        <p>Pickup Minutos</p>
         <p>
           <TranslateEstimate shippingEstimate="0m" isPickup />
         </p>
@@ -69,7 +69,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Pickup Hours</p>
+        <p>Pickup Horas</p>
         <p>
           <TranslateEstimate shippingEstimate="0h" isPickup />
         </p>
@@ -80,7 +80,7 @@ class Calculate extends Component {
           <TranslateEstimate shippingEstimate="3h" isPickup />
         </p>
 
-        <p>Pickup Days</p>
+        <p>Pickup Dias</p>
         <p>
           <TranslateEstimate shippingEstimate="0d" isPickup />
         </p>
@@ -92,7 +92,7 @@ class Calculate extends Component {
         </p>
         <br />
 
-        <p>Pickup Business Days</p>
+        <p>Pickup Dias Úteis</p>
         <p>
           <TranslateEstimate shippingEstimate="0bd" isPickup />
         </p>
@@ -108,9 +108,9 @@ class Calculate extends Component {
   }
 }
 
-Calculate.propTypes = {
+Demo.propTypes = {
   intl: intlShape,
   shippingEstimate: PropTypes.string,
 }
 
-export default injectIntl(Calculate)
+export default injectIntl(Demo)

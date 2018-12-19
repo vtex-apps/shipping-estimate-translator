@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Demo Save demo strings 1`] = `
+Array [
+  <p>
+    Minutos
+  </p>,
+  <p>
+    Em alguns instantes
+  </p>,
+  <p>
+    Em até 1 minuto
+  </p>,
+  <p>
+    Em até 3 minutos
+  </p>,
+  <br />,
+  <p>
+    Horas
+  </p>,
+  <p>
+    Em alguns instantes
+  </p>,
+  <p>
+    Em até 1 hora
+  </p>,
+  <p>
+    Em até 3 horas
+  </p>,
+  <br />,
+  <p>
+    Dias
+  </p>,
+  <p>
+    No mesmo dia
+  </p>,
+  <p>
+    Em até 1 dia
+  </p>,
+  <p>
+    Em até 3 dias
+  </p>,
+  <br />,
+  <p>
+    Dias Úteis
+  </p>,
+  <p>
+    No mesmo dia
+  </p>,
+  <p>
+    Em até 1 dia útil
+  </p>,
+  <p>
+    Em até 3 dias úteis
+  </p>,
+  <br />,
+  <p>
+    Pickup Minutos
+  </p>,
+  <p>
+    Em alguns instantes
+  </p>,
+  <p>
+    Pronto em até 1 minuto
+  </p>,
+  <p>
+    Pronto em até 3 minutos
+  </p>,
+  <br />,
+  <p>
+    Pickup Horas
+  </p>,
+  <p>
+    Em alguns instantes
+  </p>,
+  <p>
+    Pronto em até 1 hora
+  </p>,
+  <p>
+    A partir de 3 horas
+  </p>,
+  <p>
+    Pickup Dias
+  </p>,
+  <p>
+    Pronto no mesmo dia
+  </p>,
+  <p>
+    Pronto em até 1 dia
+  </p>,
+  <p>
+    Pronto em até 3 dias
+  </p>,
+  <br />,
+  <p>
+    Pickup Dias Úteis
+  </p>,
+  <p>
+    Pronto no mesmo dia
+  </p>,
+  <p>
+    Pronto em até 1 dia útil
+  </p>,
+  <p>
+    Pronto em até 3 dias úteis
+  </p>,
+  <br />,
+]
+`;
