@@ -1,0 +1,10 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {In the same day} one {In # business day} other {In up to # business days}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {In the same day} one {In # day} other {In up to # days}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {In # hours} other {In up to # hours}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Now} one {In # minute} other {In up to # minutes}}",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Ready in the same day} one {Ready in up to # business day} other {Ready in up to # business days}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Ready in the same day} one {Ready in up to # day} other {Ready in up to # days}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Ready for pickup} one {Ready in up to # hour} other {Ready in up to # hours}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Ready for pickup} one {Ready in up to # minute} other {Ready in up to # minutes}}"
+}

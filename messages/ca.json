@@ -1,0 +1,10 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {El mateix dia} one {En # dia hábil} other {Fins a # dies hàbils}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {El mateix dia} one {En # dia} other {Fins a # dies}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Amb recollida immediata} one {En # hora} other {Fins a # hores}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Amb recollida immediata} one {En # minut} other {Fins a # minuts}}",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {A punt en el mateix dia} one {A punt fins # dies hàbils} other {Listo en hasta # días hábiles}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {A punt en el mateix dia} one {A punt fins # dia} other {A punt a fins # dies}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Amb recollida immediata} one {A punt fins # hora} other {A punt a fins # hores}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Amb recollida immediata} one {A punt fins # minut} other {A punt a fins # minuts}}"
+}
