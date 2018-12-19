@@ -1,0 +1,17 @@
+version: 0.2
+phases:
+  install:
+    commands:
+      - echo Installing Packages...
+      - npm install
+  pre_build:
+    commands:
+      - echo Building application...
+      - npm run build
+      - echo build Finished
+      - echo Initializing testing
+      - npm run test
+      - echo testing Finished
+cache:
+  paths:
+    - "node_modules/**/*"
