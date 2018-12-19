@@ -6,7 +6,6 @@
   "description": "",
   "defaultLocale": "pt-BR",
   "builders": {
-    "pages": "0.x",
     "react": "2.x",
     "messages": "0.x"
   },
