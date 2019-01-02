@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "shipping-estimate-translator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "Shipping Estimate Translator",
   "description": "",
   "defaultLocale": "pt-BR",
@@ -11,7 +11,9 @@
   },
   "mustUpdateAt": "2019-12-19",
   "categories": [],
-  "registries": ["smartcheckout"],
+  "registries": [
+    "smartcheckout"
+  ],
   "settingsSchema": {},
   "scripts": {
     "postreleasy": "vtex publish --verbose"
