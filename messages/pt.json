@@ -5,6 +5,6 @@
   "shippingEstimate-m": "{timeAmount, plural, =0 {Em alguns instantes} one {Em até # minuto} other {Em até # minutos}}",
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto no mesmo dia} one {Pronto em até # dia útil} other {Pronto em até # dias úteis}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto no mesmo dia} one {Pronto em até # dia} other {Pronto em até # dias}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Em alguns instantes} one {Pronto em até # hora} other {A partir de # horas}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Em alguns instantes} one {Pronto em até # hora} other {Pronto em até # horas}}",
   "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Em alguns instantes} one {Pronto em até # minuto} other {Pronto em até # minutos}}"
 }
