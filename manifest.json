@@ -1,18 +1,19 @@
 {
   "vendor": "vtex",
-  "name": "shippint-estimate-translator",
-  "version": "0.1.0",
+  "name": "shipping-estimate-translator",
+  "version": "1.0.0",
   "title": "Shipping Estimate Translator",
   "description": "",
   "defaultLocale": "pt-BR",
   "builders": {
-    "pages": "0.x",
     "react": "2.x",
     "messages": "0.x"
   },
   "mustUpdateAt": "2019-12-19",
   "categories": [],
-  "registries": ["smartcheckout"],
+  "registries": [
+    "smartcheckout"
+  ],
   "settingsSchema": {},
   "scripts": {
     "postreleasy": "vtex publish --verbose"
