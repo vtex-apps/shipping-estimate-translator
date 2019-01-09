@@ -7,8 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Add `lowerCase` prop
+
 ## [1.0.1] - 2019-01-08
+
 ### Fixed
+
 - Fix infinite loop caused by `this.setState` inside `componentDidUpdate()`.
 
 ## [1.0.0] - 2019-01-02

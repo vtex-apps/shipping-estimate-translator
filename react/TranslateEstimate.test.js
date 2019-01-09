@@ -32,6 +32,16 @@ describe('TranslateEstimate - Empty Values', () => {
 
     expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
   })
+
+  it('should return value in lowerCase if the prop is passed', () => {
+    const { getByText } = renderWithIntl(
+      <TranslateEstimate shippingEstimate="1bd" lowerCase />
+    )
+
+    const expectedLabel = 'em até 1 dia útil'
+
+    expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
+  })
 })
 
 describe('TranslateEstimate - Valid Values', () => {
