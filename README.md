@@ -25,12 +25,16 @@ import TranslateEstimate from 'vtex.shipping-estimate-translator/TranslateEstima
 
 <TranslateEstimate shippingEstimate="0m" isPickup />
 // Ready for pickup
+
+<TranslateEstimate shippingEstimate="3m" lowerCase />
+// in 3 minutes
 ```
 
 ### Params
 
 - **shippingEstimate** | Type `string` | String to be translated
 - **isPickup** | Type `boolean` | Condition to translate estimate for pickup point
+- **lowerCase** | Type `boolean` | Condition to convert translated content to lowerCase
 
 ### Returns
 

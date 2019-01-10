@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "devDependencies": {
     "@vtex/intl-equalizer": "^2.0.1",
     "babel-core": "^6.26.3",
