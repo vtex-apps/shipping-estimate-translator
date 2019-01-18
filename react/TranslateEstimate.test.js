@@ -316,4 +316,21 @@ describe('TranslateEstimate - Valid Values', () => {
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
   })
+
+  describe('Scheduled delivery/pickup', () => {
+    it('should return correct for a given delivery window', () => {
+      const deliveryWindow = {
+        startDateUtc: '2019-01-21T12:00:00+00:00',
+        endDateUtc: '2019-01-21T13:00:00+00:00',
+      }
+
+      const { getByText } = renderWithIntl(
+        <TranslateEstimate shippingEstimate="3bd" scheduled={deliveryWindow} />
+      )
+
+      const expectedLabel = '21/01/2019, entre 12:00 e 13:00'
+
+      expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
+    })
+  })
 })
