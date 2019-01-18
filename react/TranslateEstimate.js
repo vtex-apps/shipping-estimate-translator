@@ -21,13 +21,13 @@ const getTimeAmount = shippingEstimate => {
 
 const getScheduledWindow = (scheduled, intl) => {
   return {
-    date: intl.formatDate(scheduled.startDate, {
+    date: intl.formatDate(scheduled.startDateUtc, {
       year: 'numeric',
       month: 'numeric',
       day: 'numeric',
     }),
-    startDate: intl.formatTime(scheduled.startDateUtc),
-    endDate: intl.formatTime(scheduled.endDateUtc),
+    startDate: intl.formatTime(scheduled.startDateUtc, { timeZone: 'UTC' }),
+    endDate: intl.formatTime(scheduled.endDateUtc, { timeZone: 'UTC' }),
   }
 }
 
@@ -41,9 +41,8 @@ const TranslateEstimate = ({
   let id, date, startDate, endDate, timeAmount
 
   if (scheduled) {
-    id = 'shippingEstimate-scheduled'(
-      ({ date, startDate, endDate } = getScheduledWindow(scheduled, intl))
-    )
+    id = 'shippingEstimate-scheduled'
+    ;({ date, startDate, endDate } = getScheduledWindow(scheduled, intl))
   } else {
     id = getTranslateId(shippingEstimate, isPickup)
     timeAmount = getTimeAmount(shippingEstimate)
