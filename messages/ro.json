@@ -3,6 +3,7 @@
   "shippingEstimate-d": "{timeAmount, plural, =0 {În aceeași zi} one {În # zi} other {Până la # zile}}",
   "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {În # ore} other {Până la # ore}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Acum} one {În # minut} other {Până la # minute}}",
+  "shippingEstimate-scheduled": "{date}, între orele {startDate} și {endDate}",
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Gata în aceeași zi} one {Gata în # zi lucrătoare} other {Gata până în # zile lucrătoare}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Gata în aceeași zi} one {Gata în # zi} other {Gata până în # zile}}",
   "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Gata de ridicat} one {Gata în # oră} other {Gata până în # ore}}",
