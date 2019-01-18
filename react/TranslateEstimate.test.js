@@ -325,7 +325,7 @@ describe('TranslateEstimate - Valid Values', () => {
       }
 
       const { getByText } = renderWithIntl(
-        <TranslateEstimate shippingEstimate="3bd" scheduled={deliveryWindow} />
+        <TranslateEstimate shippingEstimate="0bd" scheduled={deliveryWindow} />
       )
 
       const expectedLabel = '21/01/2019, entre 12:00 e 13:00'
