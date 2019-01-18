@@ -40,12 +40,17 @@ const TranslateEstimate = ({
 }) => {
   if (scheduled) {
     const { date, startDate, endDate } = getScheduledWindow(scheduled, intl)
-    const translatedEstimate = intl.formatMessage(
-      {
-        id: 'shippingEstimate-scheduled',
-      },
-      { date, startDate, endDate }
-    )
+    const hasDeliveryWindow = !!(startDate && endDate)
+    const translatedEstimate = hasDeliveryWindow
+      ? intl.formatMessage(
+        {
+          id: 'shippingEstimate-scheduled',
+        },
+        { date, startDate, endDate }
+      )
+      : intl.formatMessage({
+        id: 'shippingEstimate-scheduled-no-dates',
+      })
     return lowerCase ? translatedEstimate.toLowerCase() : translatedEstimate
   }
 
