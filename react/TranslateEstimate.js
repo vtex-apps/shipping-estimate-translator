@@ -38,27 +38,24 @@ const TranslateEstimate = ({
   shippingEstimate,
   scheduled,
 }) => {
-  let id, date, startDate, endDate, timeAmount
-
   if (scheduled) {
-    id = 'shippingEstimate-scheduled'
-    ;({ date, startDate, endDate } = getScheduledWindow(scheduled, intl))
-  } else {
-    id = getTranslateId(shippingEstimate, isPickup)
-    timeAmount = getTimeAmount(shippingEstimate)
+    const { date, startDate, endDate } = getScheduledWindow(scheduled, intl)
+    const translatedEstimate = intl.formatMessage(
+      {
+        id: 'shippingEstimate-scheduled',
+      },
+      { date, startDate, endDate }
+    )
+    return lowerCase ? translatedEstimate.toLowerCase() : translatedEstimate
   }
+
+  const id = getTranslateId(shippingEstimate, isPickup)
+  const timeAmount = getTimeAmount(shippingEstimate)
 
   let translatedEstimate = ''
 
   if (id && timeAmount && intl) {
     translatedEstimate = intl.formatMessage({ id }, { timeAmount })
-  }
-
-  if (id && date && startDate && endDate) {
-    translatedEstimate = intl.formatMessage(
-      { id },
-      { date, startDate, endDate }
-    )
   }
 
   if (lowerCase) {
