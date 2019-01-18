@@ -20,15 +20,21 @@ const getTimeAmount = shippingEstimate => {
 }
 
 const getScheduledWindow = (scheduled, intl) => {
-  return {
-    date: intl.formatDate(scheduled.startDateUtc, {
-      year: 'numeric',
-      month: 'numeric',
-      day: 'numeric',
-    }),
-    startDate: intl.formatTime(scheduled.startDateUtc, { timeZone: 'UTC' }),
-    endDate: intl.formatTime(scheduled.endDateUtc, { timeZone: 'UTC' }),
-  }
+  return scheduled.startDateUtc && scheduled.endDateUtc
+    ? {
+      date: intl.formatDate(scheduled.startDateUtc, {
+        year: 'numeric',
+        month: 'numeric',
+        day: 'numeric',
+      }),
+      startDate: intl.formatTime(scheduled.startDateUtc, { timeZone: 'UTC' }),
+      endDate: intl.formatTime(scheduled.endDateUtc, { timeZone: 'UTC' }),
+    }
+    : {
+      date: null,
+      startDate: null,
+      endDate: null,
+    }
 }
 
 const TranslateEstimate = ({
