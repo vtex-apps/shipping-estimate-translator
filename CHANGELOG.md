@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 
-- Add support for scheduled deliveries and pickups
+- Add support for scheduled delivery and pickup
 
 ## [1.0.2] - 2019-01-10
 
