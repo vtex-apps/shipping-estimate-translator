@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "shipping-estimate-translator",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "title": "Shipping Estimate Translator",
   "description": "",
   "defaultLocale": "pt-BR",
