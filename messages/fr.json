@@ -4,6 +4,7 @@
   "shippingEstimate-h": "{timeAmount, plural, =0 {Maintenant} one {En # heure} other {Jusqu'à # heures}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Maintenant} one {En # minute} other {Jusqu'à # minutes}}",
   "shippingEstimate-scheduled": "{date}, entre {startDate} et {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Prévu",
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Prêt le même jour} one {Prêt dans # jour ouvrable} other {Prêt dans # jours ouvrables}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Prêt le même jour} one {Prêt dans # jour} other {Prêt dans # jours}}",
   "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Prêt pour retrait} one {Prêt dans # heure} other {Prêt dans # heures}}",
