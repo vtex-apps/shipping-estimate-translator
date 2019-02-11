@@ -31,10 +31,10 @@
     "babel-core": "^7.0.0-bridge.0"
   },
   "scripts": {
-    "lint": "eslint react/**/*.js",
-    "lint:locales": "intl-equalizer",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "lint": "tsc --noEmit && tslint -c tslint.json './**/*.ts'",
+    "lint:locales": "intl-equalizer"
   },
   "jest": {
     "collectCoverageFrom": [
