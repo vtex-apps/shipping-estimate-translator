@@ -1,6 +1,6 @@
 import React from 'react'
+import { cleanup, renderWithIntl } from './test-utils' // eslint-disable-line import/named
 import TranslateEstimate from './TranslateEstimate'
-import { renderWithIntl, cleanup } from '../test-utils' // eslint-disable-line import/named
 
 describe('TranslateEstimate - Empty Values', () => {
   afterEach(cleanup)
