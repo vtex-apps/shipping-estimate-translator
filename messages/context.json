@@ -1,12 +1,12 @@
 {
-  "shippingEstimate-bd": "Shipping estimates in business days",
-  "shippingEstimate-d": "Shipping estimates in days",
-  "shippingEstimate-h": "Shipping estimates in hours",
-  "shippingEstimate-m": "Shipping estimates in minutes",
+  "shippingEstimate-bd": "Shipping estimate in business days",
+  "shippingEstimate-d": "Shipping estimate in days",
+  "shippingEstimate-h": "Shipping estimate in hours",
+  "shippingEstimate-m": "Shipping estimate in minutes",
   "shippingEstimate-scheduled": "Shipping delivery window",
   "shippingEstimate-scheduled-no-dates": "Scheduled",
-  "shippingEstimatePickup-bd": "Store pickup estimates in business days",
-  "shippingEstimatePickup-d": "Store pickup estimates in days",
-  "shippingEstimatePickup-h": "Store pickup estimates in hours",
-  "shippingEstimatePickup-m": "Store pickup estimates in minutes"
+  "shippingEstimatePickup-bd": "Store pickup estimate in business days",
+  "shippingEstimatePickup-d": "Store pickup estimate in days",
+  "shippingEstimatePickup-h": "Store pickup estimate in hours",
+  "shippingEstimatePickup-m": "Store pickup estimate in minutes"
 }
