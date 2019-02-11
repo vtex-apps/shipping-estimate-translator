@@ -7,8 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Update Messages builder to 1.x
+- Migrate codebase to TypeScript
+
 ## [2.0.0] - 2019-01-18
+
 ### Changed
+
 - Update React builder to 3.x.
 
 ## [1.0.3] - 2019-01-18
