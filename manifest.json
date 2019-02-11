@@ -7,7 +7,7 @@
   "defaultLocale": "pt-BR",
   "builders": {
     "react": "3.x",
-    "messages": "0.x"
+    "messages": "1.x"
   },
   "mustUpdateAt": "2019-12-19",
   "scripts": {
