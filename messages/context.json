@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "shippingEstimate-bd",
+  "shippingEstimate-d": "shippingEstimate-d",
+  "shippingEstimate-h": "shippingEstimate-h",
+  "shippingEstimate-m": "shippingEstimate-m",
+  "shippingEstimate-scheduled": "shippingEstimate-scheduled",
+  "shippingEstimate-scheduled-no-dates": "shippingEstimate-scheduled-no-dates",
+  "shippingEstimatePickup-bd": "shippingEstimatePickup-bd",
+  "shippingEstimatePickup-d": "shippingEstimatePickup-d",
+  "shippingEstimatePickup-h": "shippingEstimatePickup-h",
+  "shippingEstimatePickup-m": "shippingEstimatePickup-m"
+}
