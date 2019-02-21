@@ -8,5 +8,5 @@
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Gata în aceeași zi} one {Gata în # zi lucrătoare} other {Gata până în # zile lucrătoare}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Gata în aceeași zi} one {Gata în # zi} other {Gata până în # zile}}",
   "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Gata de ridicat} one {Gata în # oră} other {Gata până în # ore}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Gata de ridicat} one Gata în # minut} other {Gata până în # minute}}"
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Gata de ridicat} one {Gata în # minut} other {Gata până în # minute}}"
 }
