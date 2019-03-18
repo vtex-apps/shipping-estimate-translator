@@ -6,26 +6,22 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Italian locale
 
 ## [2.1.2] - 2019-02-21
 
 ## [2.1.1] - 2019-02-18
-
 ### Fixed
-
 - Build for new Messages builder version
 
 ## [2.1.0] - 2019-02-12
-
 ### Added
-
 - Update Messages builder to 1.x
 - Migrate codebase to TypeScript
 
 ## [2.0.0] - 2019-01-18
-
 ### Changed
-
 - Update React builder to 3.x.
 
 ## [1.0.3] - 2019-01-18
