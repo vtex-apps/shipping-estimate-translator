@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Italian locale
 
+### Fixed
+
+- Romanian locale messages
+
 ## [1.0.3] - 2019-01-18
 
 ### Added
