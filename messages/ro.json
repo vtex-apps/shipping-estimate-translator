@@ -1,7 +1,7 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {În aceeași zi} one {În # zile lucrătoare} other {Până la # zile lucrătoare}}",
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {În aceeași zi} one {În # zi lucrătoare} other {Până la # zile lucrătoare}}",
   "shippingEstimate-d": "{timeAmount, plural, =0 {În aceeași zi} one {În # zi} other {Până la # zile}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {În # ore} other {Până la # ore}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Acum} one {În # oră} other {Până la # ore}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Acum} one {În # minut} other {Până la # minute}}",
   "shippingEstimate-scheduled": "{date}, între orele {startDate} și {endDate}",
   "shippingEstimate-scheduled-no-dates": "programată",
