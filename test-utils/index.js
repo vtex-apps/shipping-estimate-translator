@@ -1,11 +1,11 @@
 import React from 'react'
 import { IntlProvider } from 'react-intl'
 import { render } from 'react-testing-library'
-import messages from '../messages/pt.json'
+import messages from '../messages/en.json'
 
 const renderWithIntl = node => {
   return render(
-    <IntlProvider locale="pt" messages={messages}>
+    <IntlProvider locale="en" defaultLocale="en" messages={messages}>
       {node}
     </IntlProvider>
   )

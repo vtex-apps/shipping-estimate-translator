@@ -1,7 +1,7 @@
 {
   "shippingEstimate-bd": "{timeAmount, plural, =0 {Same day} one {In # business day} other {In up to # business days}}",
   "shippingEstimate-d": "{timeAmount, plural, =0 {Same day} one {In # day} other {In up to # days}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {In # hours} other {In up to # hours}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {In # hour} other {In up to # hours}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Now} one {In # minute} other {In up to # minutes}}",
   "shippingEstimate-scheduled": "{date}, between {startDate} and {endDate}",
   "shippingEstimate-scheduled-no-dates": "Scheduled",
