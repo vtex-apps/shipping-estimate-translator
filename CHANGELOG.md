@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - Italian locale
+- Change `In up to` to text to `Up to`
 
 ### Fixed
 - Romanian locale messages
