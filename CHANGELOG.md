@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Change `In up to` to text to `Up to`
+
 ## [1.0.4] - 2019-03-19
 
 ### Added
