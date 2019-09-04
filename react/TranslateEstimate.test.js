@@ -73,7 +73,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="3m" />
       )
 
-      const expectedLabel = 'In up to 3 minutes'
+      const expectedLabel = 'Up to 3 minutes'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -107,7 +107,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="3h" />
       )
 
-      const expectedLabel = 'In up to 3 hours'
+      const expectedLabel = 'Up to 3 hours'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -141,7 +141,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="3d" />
       )
 
-      const expectedLabel = 'In up to 3 days'
+      const expectedLabel = 'Up to 3 days'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -175,7 +175,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="3bd" />
       )
 
-      const expectedLabel = 'In up to 3 business days'
+      const expectedLabel = 'Up to 3 business days'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
