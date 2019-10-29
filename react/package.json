@@ -1,6 +1,6 @@
 {
   "name": "shippint-estimate-translator",
-  "version": "0",
+  "version": "1.0.7",
   "description": "",
   "dependencies": {
     "react-intl": "^2.7.2"
