@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- En `i18n`.
+
 ## [1.1.0] - 2020-03-10
 
 ### Added
@@ -16,6 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [1.0.7] - 2019-10-29
 
 ### Added
+
 - Add German translations.
 
 ## [1.0.6] - 2019-09-04
