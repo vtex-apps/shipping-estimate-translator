@@ -7,6 +7,6 @@
   "shippingEstimate-scheduled-no-dates": "Gepland",
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Vandaag gereed} one {Gereed binnen # werkdag} other {Gereed binnen # werkdagen}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Vandaag gereed} one {Gereed binnen # dag} other {Gereed binnen # dagen}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 { gereed om opgehaald te worden} one {Gereed binnen # uur} other {Gereed binnen # uren}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0  gereed om opgehaald te worden} one {Gereed binnen # minuut} other {Gereed binnen # minuten}}"
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {gereed om opgehaald te worden} one {Gereed binnen # uur} other {Gereed binnen # uren}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {gereed om opgehaald te worden} one {Gereed binnen # minuut} other {Gereed binnen # minuten}}"
 }
