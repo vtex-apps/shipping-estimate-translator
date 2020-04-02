@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Fixed
 - Romanian locale messages
+- Syntax error on `nl.json` file.
 - `es` translation from `# día habiles` to `# días habiles`
 - En `i18n`.
 
@@ -33,23 +34,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Update React builder to 3.x.
 
 ## [1.0.3] - 2019-01-18
-
 ### Added
-
 - Add support for scheduled delivery and pickup
 
 ## [1.0.2] - 2019-01-10
-
 ### Added
-
 - Add `lowerCase` prop
 
 ## [1.0.1] - 2019-01-08
-
 ### Fixed
-
 - Fix infinite loop caused by `this.setState` inside `componentDidUpdate()`.
 
 ## [1.0.0] - 2019-01-02
-
 - Add TranslateEstimate component
