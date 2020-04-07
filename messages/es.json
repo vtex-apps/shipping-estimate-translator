@@ -1,5 +1,5 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {Mismo día} one {En # día hábil} other {En hasta # día hábiles}}",
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Mismo día} one {En # día hábil} other {En hasta # días hábiles}}",
   "shippingEstimate-d": "{timeAmount, plural, =0 {Mismo día} one {En # día} other {En hasta # días}}",
   "shippingEstimate-h": "{timeAmount, plural, =0 {Con entrega inmediata} one {En # hora} other {En hasta # horas}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Con entrega inmediata} one {En # minuto} other {En hasta # minutos}}",
