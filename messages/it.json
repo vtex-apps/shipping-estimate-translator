@@ -1,12 +1,12 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {Stesso giorno} one {In # giorno lavorativo} other {Fino a # giorni lavorativi}}",
-  "shippingEstimate-d": "{timeAmount, plural, =0 {Stesso giorno} one {In # giorno} other {Fino a # giorni}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Adesso} one {In # ora} other {Fino a # ore}}",
-  "shippingEstimate-m": "{timeAmount, plural, =0 {Adesso} one {In # minuto} other {Fino a # minuti}}",
-  "shippingEstimate-scheduled": "{date}, fra {startDate} e {endDate}",
-  "shippingEstimate-scheduled-no-dates": "In programma",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto nello stesso giorno} one {Pronto in # giorno lavorativo} other {Pronto in un massimo di # giorni lavorativi}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto nello stesso giorno} one {Pronto in # giorno} other {Pronto in un massimo di # giorni}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pronto per essere ritirato} one {Pronto in # ora} other {Pronto in un massimo di # ore}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pronto per essere ritirato} one {Pronto in # minuto} other {Pronto in un massimo di # minuti}}"
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Oggi} one {In # giorno lavorativo} other {Fino a # giorni lavorativi}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Oggi} one {In # giorno} other {Fino a # giorni}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Ora} one {In # ora} other {Fino a # ore}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Ora} one {In # minuto} other {Fino a # minuti}}",
+  "shippingEstimate-scheduled": "{date}, tra il giorno {startDate} e il giorno {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Programmato",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto al massimo in # giorno lavorativo} other {Pronto al massimo in # giorni lavorativi}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto al massimo in # giorno} other {Pronto al massimo in # giorni}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto al massimo in # ora} other {Pronto al massimo in # ore}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto al massimo in # minuto} other {Pronto al massimo in # minuti}}"
 }
