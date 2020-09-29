@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Σήμερα} one {Σε # εργάσιμη ημέρα} other {Έως # εργάσιμες ημέρες}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Σήμερα} one {Σε # ημέρα} other {Έως # ημέρες}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Τώρα} one {Σε # ώρα} other {Έως # ώρες}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Τώρα} one {Σε # λεπτό} other {Έως # λεπτά}}",
+  "shippingEstimate-scheduled": "{date}, μεταξύ {startDate} και {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Προγραμματίστηκε",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Έτοιμο σήμερα} one {Έτοιμο σε έως # εργάσιμη ημέρα} other {Έτοιμο σε έως # εργάσιμες ημέρες}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Έτοιμο σήμερα} one {Έτοιμο σε έως # ημέρα} other {Έτοιμο σε έως # ημέρες}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Έτοιμο για παραλαβή} one {Έτοιμο σε έως # ώρα} other {Έτοιμο σε έως # ώρες}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Έτοιμο για παραλαβή} one {Έτοιμο σε έως # λεπτό} other {Έτοιμο σε έως # λεπτά}}"
+}

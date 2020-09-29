@@ -1,12 +1,12 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {Même jour} one {En # jour ouvré} other {Jusqu'à # jours ouvrés}}",
-  "shippingEstimate-d": "{timeAmount, plural, =0 {Même jour} one {En # jour} other {Jusqu'à # jours}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Maintenant} one {En # heure} other {Jusqu'à # heures}}",
-  "shippingEstimate-m": "{timeAmount, plural, =0 {Maintenant} one {En # minute} other {Jusqu'à # minutes}}",
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Aujourd'hui} one {Dans # jour ouvré} other {Un maximum de # jours ouvrés}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Aujourd'hui} one {Dans # jour} other {Un maximum de # jours}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Maintenant} one {Dans # heure} other {Jusqu’à # heures}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Maintenant} one {Dans # minute} other {Jusqu’à # minutes}}",
   "shippingEstimate-scheduled": "{date}, entre {startDate} et {endDate}",
   "shippingEstimate-scheduled-no-dates": "Prévu",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Prêt le même jour} one {Prêt dans # jour ouvrable} other {Prêt dans # jours ouvrables}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Prêt le même jour} one {Prêt dans # jour} other {Prêt dans # jours}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Prêt pour retrait} one {Prêt dans # heure} other {Prêt dans # heures}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Prêt pour retrait} one {Prêt dans # minute} other {Prêt dans # minutes}}"
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Prêt aujourd'hui} one {Prêt dans # jour ouvré} other {Prêt dans # jours ouvrés}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Prêt aujourd’hui} one {Prêt dans # jour} other {Prêt dans # jours}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Prêt pour le retrait} one {Prêt dans # heure} other {Prêt dans # heures}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Prêt pour le retrait} one {Prêt dans # minute} other {Prêt dans # minutes}}"
 }
