@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {i dag} one {Om # hverdag} other {Op til # hverdage}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {I dag} one {Om # dag} other {Op til # dage}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Nu} one {Om # time} other {Op til # timer}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Nu} one {Om # minut} other {Op til # minutter}}",
+  "shippingEstimate-scheduled": "{date}, mellem {startDate} og {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Planlagt",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Klar i dag} one {Klar på op til # hverdag} other {Klar på op til # hverdage}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Klar i dag} one {Klar på op til # dag} other {Klar på op til # dage}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Klar til afhentning} on {Klar på op til # time} other {Klar på op til # timer}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Klar til afhentning} one {Klar på op til # minut} other {Klar på op til # minutter}}"
+}

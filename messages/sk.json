@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Dnes} one {O # pracovný deň} other {Do # pracovných dní}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Dnes} one {O # deň} other {Do # dní}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Hneď} one {O # hodinu} other {Do # hodín}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Hneď} one {O # minútu} other {Do # minút}}",
+  "shippingEstimate-scheduled": "{date}, medzi {startDate} a {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Naplánované",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pripravené dnes} one {Pripravené za # pracovný deň} other {Pripravené do # pracovných dní}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pripravené dnes} one {Pripravené za # deň} other {Pripravené do # dní}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pripravené na vyzdvihnutie} one {Pripravené do # hodiny} other {Pripravené do # hodín}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pripravené na vyzdvihnutie} one {Pripravené do # minúty} other {Pripravené do # minút}}"
+}

@@ -1,12 +1,12 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {El mateix dia} one {En # dia hábil} other {Fins a # dies hàbils}}",
-  "shippingEstimate-d": "{timeAmount, plural, =0 {El mateix dia} one {En # dia} other {Fins a # dies}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Amb recollida immediata} one {En # hora} other {Fins a # hores}}",
-  "shippingEstimate-m": "{timeAmount, plural, =0 {Amb recollida immediata} one {En # minut} other {Fins a # minuts}}",
-  "shippingEstimate-scheduled": "{date}, entre les {startDate} i les {endDate}",
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Avui} one {En # dia hàbil} other {# dies hàbils com a màxim}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Avui} one {En # dia} other {# dies com a màxim}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Ara} one {En # hora} other {# hores com a màxim}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Ara} one {En # minut} other {# minuts com a màxim}}",
+  "shippingEstimate-scheduled": "{date}, entre el {startDate} i el {endDate}",
   "shippingEstimate-scheduled-no-dates": "Programat",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {A punt en el mateix dia} one {A punt fins # dies hàbils} other {Listo en hasta # días hábiles}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {A punt en el mateix dia} one {A punt fins # dia} other {A punt a fins # dies}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Amb recollida immediata} one {A punt fins # hora} other {A punt a fins # hores}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Amb recollida immediata} one {A punt fins # minut} other {A punt a fins # minuts}}"
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {A punt avui} one {A punt en # dia hàbil com a màxim} other {A punt en # dies hàbils com a màxim}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {A punt avui} one {A punt en # dia com a màxim} other {A punt en # dies com a màxim}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {A punt perquè es reculli} one {A punt en # hora com a màxim} other {A punt en # hores com a màxim}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {A punt perquè es reculli} one {A punt en # minut com a màxim} other {A punt en # minuts com a màxim}}"
 }
