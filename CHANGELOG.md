@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Translations for BG, DA, EL, FI, RU, SK, SV, UK.
+
+### Changed
+- Localizations for CA, DE, FR, IT, KO, NL, PL, RO.
 
 ## [1.1.3] - 2020-05-14
 ### Changed
