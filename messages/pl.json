@@ -1,12 +1,12 @@
 {
-  "shippingEstimate-bd": "{timeAmount, plural, =0 {Tego samego dnia} one {W # dzień roboczy} other {Do # dni roboczych}}",
-  "shippingEstimate-d": "{timeAmount, plural, =0 {Tego samego dnia} one {W # dzień} other {Do # dni}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Teraz} one {w # godzinę} other {Do # godzin}}",
-  "shippingEstimate-m": "{timeAmount, plural, =0 {Teraz} one {W # minutę} other {Do # minut}}",
-  "shippingEstimate-scheduled": "{date}, między {startDate} i {endDate}",
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Dzisiaj} one {Za # dzień roboczy} other {Maks. do # dni roboczych}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Dzisiaj} one {Za # dzień} other {Maks. do # dni}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Teraz} one {Za # godzinę} other {Maks do # godzin}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Teraz} one {Za # minutę} other {Maks. do # minut}}",
+  "shippingEstimate-scheduled": "{date}, pomiędzy {startDate} a {endDate}",
   "shippingEstimate-scheduled-no-dates": "Zaplanowane",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Gotowe tego samego dnia} one {Gotowe do # dnia roboczego} other {Gotowe do # dni roboczych}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Gotowe tego samego dnia} one {Gotowe do # dnia} other {Gotowe do # dni}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Gotowe do odbioru} one {Gotowe do odbioru w # godzinę} other {Gotowe do # godzin}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Gotowe do odbioru} one {Gotowe do # minutę} other {Gotowe do # minut}}"
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Gotowa dzisiaj} one {Gotowa za maks. # dzień roboczy} other {Gotowa za maks. # dni roboczych}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Gotowa dzisiaj} one {Gotowa za maks. # dzień} other {Gotowa za maks. # dni}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Gotowa do odbioru} one {Gotowa za maks. # godzinę} other {Gotowa za maks. # godzin}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Gotowa do odbioru} one {Gotowa za maks. # minutę} other {Gotowa za maks. # minut}}"
 }

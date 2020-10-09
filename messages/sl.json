@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Danes} one {V # delovnem dnevu} two {Do # delovnih dni} few {Do # delovnih dni} other {Do # delovnih dni}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Danes} one {V # dnevu} two {Do # dneh} few {Do # dni} other {Do # dni}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Zdaj} one {V # uri} two {Do # ur} few {Do # ur} other {Do # ur}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Zdaj} one {V # minuti} two {Do # minut} few {Do # minut} other {Do # minut}}",
+  "shippingEstimate-scheduled": "{date}, med {startDate} in {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Načrtovano",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pripravljeno danes} one {Pripravljeno v # delovnem dnevu} two {Pripravljeno v # delovnih dneh} few {Pripravljeno v # delovnih dneh} other {Pripravljeno v # delovnih dneh}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pripravljeno danes} one {Pripravljeno v # delovnem dnevu} two {Pripravljeno v # delovnih dneh} few {Pripravljeno v # delovnih dneh} other {Pripravljeno v # delovnih dneh}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pripravljeno za prevzem} one {Pripravljeno v do # uri} two {Pripravljeno v do # urah} few {Pripravljeno v do # urah} other {Pripravljeno v do # urah}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pripravljeno za prevzem} one {Pripravljeno v do # minuti} two {Pripravljeno v do # minutah} few {Pripravljeno v do # minutah} other {Pripravljeno v do # minutah}}"
+}

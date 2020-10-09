@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Сьогодні} one {За # робочий день} few {До # робочих днів} many {До # робочих днів} other {До # робочих днів}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Сьогодні} one {За # день} few {До # днів} many {До # днів} other {До # днів}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Зараз} one {За # годину} few {За # години} many {За # годин} other {За # годин}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Зараз} one {За # хвилину} few {За # хвилини} many {За # хвилин} other {За # хвилин}}",
+  "shippingEstimate-scheduled": "{date}, з {startDate} по {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Зарезервовано",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Готово сьогодні} one {Готовність до # робочих днів} few {Готовність до # робочих днів} many {Готовність до # робочих днів} other {Готовність до # робочих днів}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Готово сьогодні} one {Готовність до # днів} few {Готовність до # днів} many {Готовність до # днів} other {Готовність до # днів}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Готово до видачі} one {Готовність до # годин} few {Готовність до # годин} many {Готовність до # годин} other {Готовність до # годин}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Готово до видачі} one {Готовність до # хвилин} few {Готовність до # хвилин} many {Готовність до # хвилин} other {Готовність до # хвилин}}"
+}

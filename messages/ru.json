@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Сегодня} one {За # рабочий день} few {До # рабочих дней} many {До # рабочих дней} other {До # рабочих дней}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Сегодня} one {За # день} few {До # дней} many {До # дней} other {До # дней}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Сейчас} one {За # час} few {До # часов} many {До # часов} other {До # часов}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Сейчас} one {За # минуту} few {До # минут} many {До # минут} other {До # минут}}",
+  "shippingEstimate-scheduled": "{date}, между {startDate} и {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Запланировано",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Готово сегодня} one {Готово через # рабочий день} few {Готово через # рабочих дня} many {Готово через # рабочих дней} other {Готово через # рабочих дней}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Готово сегодня} one {Готово за # день} few {Готово за # дня} many {Готово за # дней} other {Готово за # дней}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Готово к выдаче} one {Готово за # час} few {Готово за # часа} many {Готово за # часов} other {Готово за # часов}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Готово к выдаче} one {Готово за # минуту} few {Готово за # минуты} many {Готово за # минут} other {Готово за # минут}}"
+}
