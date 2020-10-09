@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Idag} one {I # arbetsdag} other {Upp till # arbetsdagar}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Idag} one {I # dagar} other {Upp till # dagar}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Nu} one {I # timme} other {Upp till # timmar}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Nu} one {I # minut} other {Upp till # minuter}}",
+  "shippingEstimate-scheduled": "{date}, mellan {startDate} och {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Schemalagd",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Redo idag} one {Redo i upp till # arbetsdag} other {Redo i upp till # arbetsdagar}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Redo idag} one {Redo i upp till # dag} other {Redo i upp till # dagar}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Redo för upphämtning} one {Redo i upp till # timme} other {Redo i upp till # timmar}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Redo för upphämtning} one {Redo i upp till # minut} other {Redo i upp till # minuter}}"
+}

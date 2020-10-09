@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Tänään} one {# työpäivän päästä} other {Enintään # työpäivän päästä}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Tänään} one {# päivän päästä} other {enintään # päivän päästä}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Nyt} one {# tunnin päästä} other {Enintään # tunnin päästä}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Nyt} one {# minuutin päästä} other {Enintään # minuutin päästä}}",
+  "shippingEstimate-scheduled": "{date}, {startDate}–{endDate}",
+  "shippingEstimate-scheduled-no-dates": "Arvioitu",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Valmis tänään} one {Valmis enintään # työpäivän päästä} other {Valmis enintään # työpäivän päästä}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Valmis tänään} one {Valmis enintään # päivän päästä} other {Valmis enintään # päivän päästä}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Noudettavissa} one {Valmis enintään # tunnin päästä} other {Valmis enintään # tunnin päästä}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Noudettavissa} one {Valmis enintään # minuutin päästä} other {Valmis enintään # minuutin päästä}}"
+}

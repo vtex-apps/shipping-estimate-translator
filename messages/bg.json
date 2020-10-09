@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Днес} one {До # работен ден} other {До # работни дни}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Днес} one {До # ден} other {До # дни}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Сега} one {До # час} other {До # часа}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Сега} one {До # минута} other {До # минути}}",
+  "shippingEstimate-scheduled": "{date}, между {startDate} и {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Планирано",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Готово днес} one {Готово до # работен ден} other {Готово до # работни дни}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Готово днес} one {Готово до # ден} other {Готово до # дни}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Готово за получаване} one {Готово до # час} other {Готово до # часа}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Готово за получаване} one {Готово до # минута} other {Готово до # минути}}"
+}
