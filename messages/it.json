@@ -5,8 +5,8 @@
   "shippingEstimate-m": "{timeAmount, plural, =0 {Ora} one {Entro # minuto} other {Entro # minuti}}",
   "shippingEstimate-scheduled": "{date}, tra il giorno {startDate} e il giorno {endDate}",
   "shippingEstimate-scheduled-no-dates": "Programmato",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto al massimo in # giorno lavorativo} other {Pronto al massimo in # giorni lavorativi}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto al massimo in # giorno} other {Pronto al massimo in # giorni}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto al massimo in # ora} other {Pronto al massimo in # ore}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto al massimo in # minuto} other {Pronto al massimo in # minuti}}"
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto entro massimo # giorno lavorativo} other {Pronto entro massimo # giorni lavorativi}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto entro massimo # giorno} other {Pronto entro massimo # giorni}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto entro massimo # ora} other {Pronto entro massimo # ore}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Pronto al ritiro} one {Pronto entro massimo # minuto} other {Pronto entro massimo # minuti}}"
 }
