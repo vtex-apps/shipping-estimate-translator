@@ -10,4 +10,3 @@
   "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Připraveno k vyzvednutí} one {Připraveno za až # hodinu} few {Připraveno za až # hodin} many {Připraveno za až # hodin} other {Připraveno za až # hodin}}",
   "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Připraveno k vyzvednutí} one {Připraveno za až # minutu} few {Připraveno za až # minut} many {Připraveno za až # minut} other {Připraveno za až # minut}}"
 }
-  
