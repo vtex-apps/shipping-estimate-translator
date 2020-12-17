@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Dnes} one {Za # pracovní den} few {Až # pracovních dnů} many {Až # pracovních dnů} other {Až # pracovních dnů}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Dnes} one {Za # den} few {Až # dnů} many {Až # dnů} other {Až # dnů}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Nyní} one {Za # hodinu} few {Až # hodin} many {Až # hodin} other {Až # hodin}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Nyní} one {Za # minutu} few {Až # minut} many {Až # minut} other {Až # minut}}",
+  "shippingEstimate-scheduled": "{date}, od {startDate} do {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Naplánováno",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Připraveno dnes} one {Připraveno za až # pracovní den} few {Připraveno za až # pracovních dnů} many {Připraveno za až # pracovních dnů} other {Připraveno za až # pracovních dnů}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Připraveno dnes} one {Připraveno za až # den} few {Připraveno za až # dnů} many {Připraveno za až # dnů} other {Připraveno za až # dnů}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Připraveno k vyzvednutí} one {Připraveno za až # hodinu} few {Připraveno za až # hodin} many {Připraveno za až # hodin} other {Připraveno za až # hodin}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Připraveno k vyzvednutí} one {Připraveno za až # minutu} few {Připraveno za až # minut} many {Připraveno za až # minut} other {Připraveno za až # minut}}"
+}
