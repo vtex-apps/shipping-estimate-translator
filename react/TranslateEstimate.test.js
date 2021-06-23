@@ -1,4 +1,5 @@
 import React from 'react'
+
 import TranslateEstimate from './TranslateEstimate'
 import { renderWithIntl, cleanup } from '../test-utils' // eslint-disable-line import/named
 
@@ -121,7 +122,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="0d" />
       )
 
-      const expectedLabel = 'Same day'
+      const expectedLabel = 'Today'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -155,7 +156,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="0bd" />
       )
 
-      const expectedLabel = 'Same day'
+      const expectedLabel = 'Today'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -257,7 +258,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="0d" isPickup />
       )
 
-      const expectedLabel = 'Ready in the same day'
+      const expectedLabel = 'Ready today'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -291,7 +292,7 @@ describe('TranslateEstimate - Valid Values', () => {
         <TranslateEstimate shippingEstimate="0bd" isPickup />
       )
 
-      const expectedLabel = 'Ready in the same day'
+      const expectedLabel = 'Ready today'
 
       expect(getByText(expectedLabel).textContent).toBe(expectedLabel)
     })
@@ -336,7 +337,7 @@ describe('TranslateEstimate - Valid Values', () => {
     })
   })
 
-  describe('Scheduled delivery/pickup', () => {
+  describe('Scheduled delivery', () => {
     afterEach(cleanup)
 
     it('should return correct for a scheduled delivery with no delivery window', () => {
