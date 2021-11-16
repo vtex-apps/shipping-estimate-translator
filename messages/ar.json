@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {اليوم} one {خلال # يوم عمل} other {لغاية # أيام عمل}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {اليوم} one {خلال # يوم} other {لغاية # أيام}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {الآن} one {خلال # ساعة} other {لغاية # ساعات}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {الآن} one {خلال # دقيقة} other {لغاية # دقائق}}",
+  "shippingEstimate-scheduled": "{date}، بين {startDate} و{endDate}",
+  "shippingEstimate-scheduled-no-dates": "مبرمجة",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {جاهز اليوم} one {جاهز خلال # يوم عمل} other {جاهز خلال # أيام عمل}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {جاهز اليوم} one {جاهز خلال # يوم} other {جاهز خلال # أيام}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {جاهز للإستلام} one {جاهز خلال # ساعة} other {جاهز خلال # ساعات}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {جاهز للإستلام} one {جاهز خلال # دقيقة} other {جاهز خلال # دقائق}}"
+}
