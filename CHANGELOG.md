@@ -7,8 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.2.3] - 2022-07-06
 ### Fixed
 - Timezone UTC in deliverywindow's date at `getScheduledWindow` function
+
 ## [2.2.2] - 2020-10-09
 ### Added
 - Translations for BG, DA, EL, FI, RU, SK, SV, UK.
