@@ -35,6 +35,7 @@ const getScheduledWindow = (
           year: 'numeric',
           month: 'numeric',
           day: 'numeric',
+          timeZone: 'UTC',
         }),
         startDate: intl.formatTime(scheduled.startDateUtc, { timeZone: 'UTC' }),
         endDate: intl.formatTime(scheduled.endDateUtc, { timeZone: 'UTC' }),
