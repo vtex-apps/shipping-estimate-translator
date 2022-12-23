@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {今日} one {# 営業日} other {最大 # 営業日}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {今日} one {# 日} other {最大 # 日}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {今} one {# 時間} other {最大 # 時間}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {今} one {# 分間} other {最大 # 分間}}",
+  "shippingEstimate-scheduled": "{date}, {startDate} と {endDate} の間",
+  "shippingEstimate-scheduled-no-dates": "スケジュール済み",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {今日で準備完了} one {最大 # 営業日で準備完了} other {最大 # 営業日で準備完了}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {今日で準備完了} one {最大 # 日で準備完了} other {最大 # 日で準備完了}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {ピックアップの準備完了} one {最大 # 時間で準備完了} other {最大 # 時間で準備完了}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {ピックアップの準備完了} one {最大 # 分間で準備完了} other {最大 # 分間で準備完了}}"
+}

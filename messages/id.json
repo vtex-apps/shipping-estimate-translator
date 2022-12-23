@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Hari ini} one {Dalam # hari kerja} other {Hingga # hari kerja}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Hari ini} one {Dalam # hari} other {Hingga # hari}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Sekarang} one {Dalam # jam} other {Hingga # jam}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Sekarang} one {Dalam # menit} other {Hingga # menit}}",
+  "shippingEstimate-scheduled": "{date}, antara {startDate} hingga {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Dijadwalkan",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Siap hari ini} one {Siap dalam # hari kerja} other {Siap dalam # hari kerja}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Siap hari ini} one {Siap dalam hingga # hari} other {Siap dalam hingga # hari}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Siap untuk diambil} one {Siap dalam hingga # jam} other {Siap dalam hingga # jam}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Siap untuk diambil} one {Siap dalam hingga # menit} other {Siap dalam hingga # menit}}"
+}
