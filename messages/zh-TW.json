@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {今天} other {不超過 # 個工作日}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {今天} other {不超過 # 天}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {馬上} other {不超過 # 小時}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {馬上} other {不超過 # 分鐘}}",
+  "shippingEstimate-scheduled": "{date}, {startDate} 至 {endDate} 期間",
+  "shippingEstimate-scheduled-no-dates": "已排程",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {今天就緒} one {# 個工作日內就緒} other {# 個工作日內就緒}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {今天就緒} other {最多 # 天內就緒}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {就緒可供提貨} one {# 小時內就緒可供提貨} other {# 小時內就緒可供提貨}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {就緒可供提貨} one {# 分鐘內就緒可供提貨} other {# 分鐘內就緒可供提貨}}"
+}
