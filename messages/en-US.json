@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Same day} one {Within # business day} other {Within # business days}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Same day} one {Within # day} other {Within # days}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Now} one {Within # hour} other {Within # hours}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Now} one {Within # minute} other {Within # minutes}}",
+  "shippingEstimate-scheduled": "{date}, between {startDate} and {endDate}",
+  "shippingEstimate-scheduled-no-dates": "Scheduled",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Ready the same day} one {Ready within # business day} other {Ready within # business days}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Ready the same day} one {Ready within # day} other {Ready within # days}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Ready for pickup} one {Ready within # hour} other {Ready within # hours}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Ready for pickup} one {Ready within # minute} other {Ready within # minutes}}"
+}

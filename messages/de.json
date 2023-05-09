@@ -1,12 +1,12 @@
 {
   "shippingEstimate-bd": "{timeAmount, plural, =0 {Heute} one {In # Werktag} other {Bis zu # Werktagen}}",
   "shippingEstimate-d": "{timeAmount, plural, =0 {Heute} one {In # Tag} other {Bis zu # Tage}}",
-  "shippingEstimate-h": "{timeAmount, plural, =0 {Jetzt} one {In # Stunden} other {Bis zu # Stunden}}",
-  "shippingEstimate-m": "{timeAmount, plural, =0 {Jetzt} one {In # Minute} other {Bis zu # Minuten}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Jetzt} one {In# Stunden} other {Bis zu # Stunden}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Jetzt} one {In# Minute} other {Bis zu # Minuten}}",
   "shippingEstimate-scheduled": "{date}, zwischen {startDate} und {endDate}",
   "shippingEstimate-scheduled-no-dates": "Geplant",
-  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Heute fertig} one {Fertig in # Werktag} other {Fertig in # Werktagen}}",
-  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Heute fertig} one {Fertig in # Tag} other {Fertig in # Tagen}}",
-  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Abholbereit} one {Abholbereit in # Stunde} other {Abholbereit in # Stunden}}",
-  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Abholbereit} one {Fertig in # Minute} other {Fertig in # Minuten}}"
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Heute fertig} one {Fertig in# Werktag} other {Fertig in# Werktagen}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Heute fertig} one {Fertig in # Tag } other {Fertig in # Tagen}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Abholbereit} one {Abholbereit in# Stunde} other {Abholbereit in # Stunden}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Abholbereit} one {Fertig in# Minute} other {Fertig in# Minuten }}"
 }

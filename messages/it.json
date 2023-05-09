@@ -3,7 +3,7 @@
   "shippingEstimate-d": "{timeAmount, plural, =0 {Oggi} one {Entro # giorno} other {Entro # giorni}}",
   "shippingEstimate-h": "{timeAmount, plural, =0 {Ora} one {Entro # ora} other {Entro # ore}}",
   "shippingEstimate-m": "{timeAmount, plural, =0 {Ora} one {Entro # minuto} other {Entro # minuti}}",
-  "shippingEstimate-scheduled": "{date}, tra il giorno {startDate} e il giorno {endDate}",
+  "shippingEstimate-scheduled": "il {date} tra le {startDate} e le {endDate}",
   "shippingEstimate-scheduled-no-dates": "Programmato",
   "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto entro massimo # giorno lavorativo} other {Pronto entro massimo # giorni lavorativi}}",
   "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Pronto oggi} one {Pronto entro massimo # giorno} other {Pronto entro massimo # giorni}}",
