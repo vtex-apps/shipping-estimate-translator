@@ -1,0 +1,12 @@
+{
+  "shippingEstimate-bd": "{timeAmount, plural, =0 {Ma} one {# munkanapon belül} other {Legfeljebb # munkanapon belül}}",
+  "shippingEstimate-d": "{timeAmount, plural, =0 {Ma} one {# napon belül} other {Legfeljebb # napon belül}}",
+  "shippingEstimate-h": "{timeAmount, plural, =0 {Most} one {# órán belül} other {Legfeljebb # órán belül}}",
+  "shippingEstimate-m": "{timeAmount, plural, =0 {Most} one {# percen belül} other {Legfeljebb # percen belül}}",
+  "shippingEstimate-scheduled": "{date}, {startDate} és {endDate} között",
+  "shippingEstimate-scheduled-no-dates": "Ütemezett",
+  "shippingEstimatePickup-bd": "{timeAmount, plural, =0 {Kész ma} one {Kész # munkanapon belül} other {Kész # munkanapon belül}}",
+  "shippingEstimatePickup-d": "{timeAmount, plural, =0 {Kész ma} one {Kész # napon belül} other {Kész # napon belül}}",
+  "shippingEstimatePickup-h": "{timeAmount, plural, =0 {Kész az átvételre} one {Kész # órán belül} other {Kész # órán belül}}",
+  "shippingEstimatePickup-m": "{timeAmount, plural, =0 {Kész az átvételre} one {Kész # percen belül} other {Kész # percen belül}}"
+}
