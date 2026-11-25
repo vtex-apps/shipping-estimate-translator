@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Update `react` builder from `2.x` to `3.x` (render-runtime `8.x`) and `messages` builder from `0.x` to `1.x`, which `react@3.x` requires. No change to the public API.
+
 ## [1.5.0] - 2022-12-23
 
 ### Added
